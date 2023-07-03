@@ -1,9 +1,11 @@
 :root {
     --cor-de-fundo: #91d9c5;
+    --branco:var(--cor-de-fundo)
 }
 
 body {
        background-color:  var(--cor-de-fundo);
+       
 }
 
 h1 {
